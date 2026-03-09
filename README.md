@@ -1,4 +1,4 @@
-# 1️.Basic Commands
+# 1.Basic Commands
 
 **Configure Git**
 ```
@@ -61,7 +61,7 @@ git commit --amend
 git log
 git log --oneline
 ```
-# 2️.Branch Commands
+# 2.Branch Commands
 
 **View Branches**
 ```
@@ -97,7 +97,7 @@ git merge branch_name
 ```
 - Note:- Be on the branch where you want to merge.
 
-# 3️.Git Diff
+# 3.Git Diff
 
 **View Unstaged Changes**
 ```
@@ -115,7 +115,7 @@ git diff branch1 branch2
 ```
 git diff commit1..commit2
 ```
-# 4️.Git Stash
+# 4.Git Stash
 
 **Save Changes**
 ```
